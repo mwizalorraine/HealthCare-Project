@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385187541883",
+    "project_id": "vaster-cb867",
+    "storage_bucket": "vaster-cb867.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385187541883:android:7fe21623e4bcbd9bc5c3de",
+        "android_client_info": {
+          "package_name": "com.rapidsave.rapidsave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385187541883-ojbp48n6b57115ogbrtibrkejuk60u09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmwe1844-X-wne_5wsPeDRtYnHD9TLE5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385187541883-ojbp48n6b57115ogbrtibrkejuk60u09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
