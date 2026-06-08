@@ -382,4 +382,5 @@ const socket = io("http://localhost:5000", {
 
 ```
 
-Authors: Niragire Mgnifique, Lorraine Mwiza || CoE
+Author
+: Lorraine Mwiza || CoE
