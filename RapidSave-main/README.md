@@ -382,5 +382,4 @@ const socket = io("http://localhost:5000", {
 
 ```
 
-Author
-: Lorraine Mwiza || CoE
+Author: Lorraine Mwiza || CoE
